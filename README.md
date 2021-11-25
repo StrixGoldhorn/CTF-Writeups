@@ -15,3 +15,4 @@ Writeups for:
 - [Imaginary CTF (Monthly)](/ImaginaryCTF%202021)
 - [HSCTF 2021](/HSCTF%202021)
 - [WeCTF 2021](/WeCTF%202021)
+- [damncon 2021](/damncon%202021)
