@@ -107,7 +107,7 @@ If the segment is incorrect, it returns `NOT NULL constraint failed: user.userna
 
 
 ## Script
-Hence, we created a [short Python script](Assets/Phish/solve.py) to solve for the flag<br/>
+Hence, we created a [short Python script](Assets/solve.py) to solve for the flag<br/>
 Since we are not allowed to send >100 requests per second, we added `time.sleep(0.1)` to limit our requests to at most 10 per second<br/>
 
 > we{e0df7105-edcd-4dc6-8349-f3bef83643a9@h0P3_u_didnt_u3e_sq1m4P}
